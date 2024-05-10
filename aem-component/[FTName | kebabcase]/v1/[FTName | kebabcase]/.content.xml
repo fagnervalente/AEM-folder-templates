@@ -4,4 +4,4 @@
     jcr:description="[FTName | capitalcase]"
     jcr:primaryType="cq:Component"
     jcr:title="[FTName | capitalcase]"
-    componentGroup="arc-www"/>
+    componentGroup=".hidden"/>
