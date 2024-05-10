@@ -1,0 +1,8 @@
+{
+    "name": "AEM Component",
+    "omitParentDirectory": true,
+    "openFilesWhenDone": [
+        "[FTName | kebabcase]/v1/[FTName | kebabcase]/_cq_dialog/.content.xml",
+        "[FTName | kebabcase]/v1/[FTName | kebabcase]/[FTName | kebabcase].html"
+    ]
+}

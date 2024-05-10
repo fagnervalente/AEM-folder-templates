@@ -1,0 +1,8 @@
+{
+    "name": "CQ Design Dialog",
+    "omitParentDirectory": true,
+    "openFilesWhenDone": [
+      "_cq_design_dialog/.content.xml"
+    ]  
+  }
+  
